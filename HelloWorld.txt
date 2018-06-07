@@ -1,0 +1,7 @@
+Go ahead and type the following code in the code-editor:
+
+print "Hello HackerRank!!"
+
+Solution :-
+
+print "Hello HackerRank!!"
